@@ -1,4 +1,5 @@
 # Vlad and Niki: 12 Locks Custom APK
+WARNING: This is not done yet! Should be complete soon.h
 This repository is an custom APK of the game 'Vlad and Niki: 12 Locks'.
 If you want, you can change the code.
 The current version of this game is v1.21.
