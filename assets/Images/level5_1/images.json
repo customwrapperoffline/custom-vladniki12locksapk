@@ -1,0 +1,124 @@
+{"frames": {
+
+"elephant":
+{
+	"frame": {"x":372,"y":236,"w":456,"h":417},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":456,"h":417},
+	"sourceSize": {"w":456,"h":417}
+},
+"elephant_eye":
+{
+	"frame": {"x":843,"y":482,"w":123,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":144},
+	"sourceSize": {"w":123,"h":144}
+},
+"elephant_head":
+{
+	"frame": {"x":10,"y":635,"w":347,"h":356},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":347,"h":356},
+	"sourceSize": {"w":347,"h":356}
+},
+"elephant_nut":
+{
+	"frame": {"x":291,"y":130,"w":47,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":22},
+	"sourceSize": {"w":47,"h":22}
+},
+"elephant_tail":
+{
+	"frame": {"x":291,"y":272,"w":42,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":89},
+	"sourceSize": {"w":42,"h":89}
+},
+"giraffe":
+{
+	"frame": {"x":10,"y":10,"w":266,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":610},
+	"sourceSize": {"w":266,"h":610}
+},
+"giraffe_door":
+{
+	"frame": {"x":843,"y":641,"w":104,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":122},
+	"sourceSize": {"w":104,"h":122}
+},
+"giraffe_eye":
+{
+	"frame": {"x":291,"y":10,"w":62,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":105},
+	"sourceSize": {"w":62,"h":105}
+},
+"giraffe_head":
+{
+	"frame": {"x":851,"y":10,"w":138,"h":398},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":398},
+	"sourceSize": {"w":138,"h":398}
+},
+"giraffe_leafs":
+{
+	"frame": {"x":372,"y":668,"w":85,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":43},
+	"sourceSize": {"w":85,"h":43}
+},
+"giraffe_mouth":
+{
+	"frame": {"x":291,"y":167,"w":46,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":90},
+	"sourceSize": {"w":46,"h":90}
+},
+"giraffe_plate":
+{
+	"frame": {"x":843,"y":423,"w":124,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":44},
+	"sourceSize": {"w":124,"h":44}
+},
+"giraffe_table":
+{
+	"frame": {"x":372,"y":10,"w":464,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":211},
+	"sourceSize": {"w":464,"h":211}
+},
+"giraffe_tail":
+{
+	"frame": {"x":372,"y":778,"w":72,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":92},
+	"sourceSize": {"w":72,"h":92}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:229c38e8d360fa72d63b5c35e5679967:99a81d8e66301a5f41478781248f0e1d:9be8c185d95a5be4a06ec0067a3d8380$"
+}
+}
