@@ -1,0 +1,20 @@
+{"frames": {
+
+"level_icons":
+{
+	"frame": {"x":10,"y":10,"w":1160,"h":1450},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1160,"h":1450},
+	"sourceSize": {"w":1160,"h":1450}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:be8fd860381a755936cd7d5620349dd3:59f22f0f5eb9d888d1b5b418eb87e6ca:9be8c185d95a5be4a06ec0067a3d8380$"
+}
+}
