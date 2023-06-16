@@ -1,0 +1,18 @@
+{
+	"sounds":	{
+		"snd_water": {},
+		"snd_water_prr": {},
+		"snd_big_door": {},
+		"snd_wof_spin": {},
+		"snd_wof_win": {},
+		"snd_repair": {},
+		"snd_fly": {},
+		"snd_witch": {},
+		"snd_cuckoo": {},
+		"snd_eating": {},
+		"snd_clocks": {},
+		"snd_jump1": {},
+		"snd_jump2": {},
+		"snd_mixer": {}
+	}
+}

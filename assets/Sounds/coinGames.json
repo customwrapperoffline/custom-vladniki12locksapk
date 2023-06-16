@@ -1,0 +1,20 @@
+{
+	"sounds":	{
+		"snd_bird_1": {},
+		"snd_bird_2": {},
+		"snd_bird_3": {},
+		"snd_giant_start": {},
+		"snd_giant_end": {},
+		"snd_buster": {},
+		"snd_explode1": {},
+		"snd_explode2": {},
+		"snd_powerup": {},
+		"snd_car_loop": {},
+		"snd_car_start": {},
+		"snd_car_end": {},
+		"snd_plane_loop": {},
+		"snd_super_jump": {},
+		"snd_super_loop": {},
+		"snd_super_prepare": {}
+	}
+}

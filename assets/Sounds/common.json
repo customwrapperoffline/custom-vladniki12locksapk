@@ -1,0 +1,32 @@
+{
+	"sounds":	{
+		"snd_click": {},
+		"snd_code_click": {},
+		"snd_code_unlock": {},
+		"snd_complete": {},
+		"snd_door_open": {},
+		"snd_door_shake": {},
+		"snd_coin_drop_down": {},
+		"snd_coin_pick": {},
+		"snd_item_drop_down": {},
+		"snd_item_jump": {},
+		"snd_item_pick": {},
+		"snd_key_drop_down": {},
+		"snd_key_pick": {},
+		"snd_logo_splash": {},
+		"snd_stars": {},
+		"snd_swap_01": {},
+		"snd_swap_02": {},
+		"snd_swap_03": {},
+		"snd_swap_04": {},
+		"snd_unlock": {},
+		"snd_coin1": {},
+		"snd_coin2": {},
+		"snd_coin3": {},
+		"snd_coin4": {},
+		"snd_tick": {},
+		"snd_alarm_clock": {},
+		"snd_transition_in": {},
+		"snd_transition_out": {}
+	}
+}

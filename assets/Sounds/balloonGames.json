@@ -1,0 +1,11 @@
+{
+	"sounds":	{
+		"snd_balloon_hit1": {},
+		"snd_balloon_hit2": {},
+		"snd_balloon_pop1": {},
+		"snd_balloon_pop2": {},
+		"snd_balloon_pop3": {},
+		"snd_powerup": {},
+		"snd_throw": {}
+	}
+}

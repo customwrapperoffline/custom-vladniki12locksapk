@@ -1,0 +1,15 @@
+{
+	"sounds":	{
+		"snd_jump1": {},
+		"snd_jump2": {},
+		"snd_wof_spin": {},
+		"snd_cat": {},
+		"snd_cat2": {},
+		"snd_mouse": {},
+		"snd_rotate": {},
+		"snd_prison_door": {},
+		"snd_snake_eat": {},
+		"snd_bottle_hit": {},
+		"snd_bottle_break": {}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"sounds":	{
+		"snd_dig_short": {},
+		"snd_rotate": {},
+		"snd_bird_1": {},
+		"snd_bird_2": {},
+		"snd_bird_3": {},
+		"snd_jingle": {},
+		"snd_powerup": {},
+		"snd_throw": {},
+		"snd_shot_2": {},
+		"snd_rocket": {},
+		"snd_wof_win": {},
+		"snd_kid_laugh": {},
+		"snd_giant_end": {},
+		"snd_alien_worm_short": {},
+		"snd_electro_short": {},
+		"snd_xmas_pop": {},
+		"snd_xmas_tree": {},
+		"snd_explode2": {},
+		"snd_jump1": {},
+		"snd_jump2": {},
+		"snd_santa": {}
+	}
+}

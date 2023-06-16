@@ -1,0 +1,23 @@
+{
+	"sounds":	{
+		"snd_water": {},
+		"snd_jump1": {},
+		"snd_jump2": {},
+		"snd_xmas_tree": {},
+		"snd_scissors": {},
+		"snd_cow": {},
+		"snd_car_crash": {},
+		"snd_car_engine": {},
+		"snd_car_engine_fail": {},
+		"snd_alien_worm_short": {},
+		"snd_kid_laugh": {},
+		"snd_kid_jump": {},
+		"snd_kid_ueee": {},
+		"snd_pig": {},
+		"snd_beep": {},
+		"snd_sheep": {},
+		"snd_robot_on": {},
+		"snd_wof_win": {},
+		"snd_bird_chick": {}
+	}
+}

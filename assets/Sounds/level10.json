@@ -1,0 +1,25 @@
+{
+	"sounds":	{
+		"snd_kid_laugh": {},
+		"snd_kid_jump": {},
+		"snd_robot_on": {},
+		"snd_coin_drop_down": {},
+		"snd_coin_pick": {},
+		"snd_alien_worm_short": {},
+		"snd_snake_die": {},
+		"snd_powerup": {},
+		"snd_pop": {},
+		"snd_prison_door": {},
+		"snd_rotate": {},
+		"snd_throw": {},
+		"snd_horse_galopp": {},
+		"snd_horse": {},
+		"snd_magic_song": {},
+		"snd_electro": {},
+		"snd_microwave": {},
+		"snd_shot_1": {},
+		"snd_gong": {},
+		"snd_xmas_tree": {},
+		"snd_hammer": {}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"sounds":	{
+		"snd_bottle_break": {},
+		"snd_bottle_hit": {},
+		"snd_bush_move": {},
+		"snd_bush_shake": {},
+		"snd_car_drift": {},
+		"snd_car_crash": {},
+		"snd_car_engine": {},
+		"snd_car_engine_fail": {},
+		"snd_coin_drop_down": {},
+		"snd_coin_pick": {},
+		"snd_hammer": {},
+		"snd_kid_laugh": {},
+		"snd_pig_break": {},
+		"snd_repair": {},
+		"snd_robot_jump": {},
+		"snd_robot_on": {},
+		"snd_rotate": {},
+		"snd_saw": {},
+		"snd_saw_hit": {},
+		"snd_truck_cover": {}
+	}
+}

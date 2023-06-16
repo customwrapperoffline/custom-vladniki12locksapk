@@ -1,0 +1,15 @@
+{
+	"sounds":	{
+		"snd_shot_1": {},
+		"snd_gas": {},
+		"snd_rotate": {},
+		"snd_repair": {},
+		"snd_robot_on": {},
+		"snd_powerup": {},
+		"snd_pop": {},
+		"snd_alien": {},
+		"snd_alien_blob": {},
+		"snd_alien_worm": {},
+		"snd_cow": {}
+	}
+}

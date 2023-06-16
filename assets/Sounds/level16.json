@@ -1,0 +1,20 @@
+{
+	"sounds":	{
+		"snd_kid_cry": {},
+		"snd_dig_short": {},
+		"snd_alien_blob": {},
+		"snd_rotate": {},
+		"snd_eating": {},
+		"snd_angry": {},
+		"snd_powerup": {},
+		"snd_sword": {},
+		"snd_bird_1": {},
+		"snd_bird_2": {},
+		"snd_bird_3": {},
+		"snd_punch1": {},
+		"snd_electro": {},
+		"snd_electro_short": {},
+		"snd_jump1": {},
+		"snd_jump2": {}
+	}
+}

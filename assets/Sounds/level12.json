@@ -1,0 +1,19 @@
+{
+	"sounds":	{
+		"snd_repair": {},
+		"snd_rotate": {},
+		"snd_big_door": {},
+		"snd_kid_laugh": {},
+		"snd_power_up": {},
+		"snd_power_down": {},
+		"snd_electro_short": {},
+		"snd_phone_short": {},
+		"snd_beep": {},
+		"snd_robot_on": {},
+		"snd_punch1": {},
+		"snd_punch2": {},
+		"snd_alarm_clock": {},
+		"snd_explode1": {},
+		"snd_pop": {}
+	}
+}
