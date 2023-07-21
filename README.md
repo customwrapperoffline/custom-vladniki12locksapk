@@ -2,7 +2,7 @@
 WARNING: This is not done yet! Should be complete soon.
 This repository is an custom APK of the game 'Vlad and Niki: 12 Locks'.
 If you want, you can change the code.
-The current version of this game is v1.21.
+The current version of this game is v1.21. I am not currently editing this, as it is an "busy day".
 
 NOTE: The Russian language has switched to the Czech language. I also added my name into the Info, so I have credit.
 Czech translations are not accurate, and there are limited characters, next update should cover that.
